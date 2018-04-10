@@ -20,7 +20,6 @@ Code For Miami is an [open source](https://en.wikipedia.org/wiki/Open_source) or
 
 We hope you find what you're looking for, but if you need help, you can email us [here](#)!
 
-Thanks for co-creating with us!
 
 ## How To Propose or Discuss Project Ideas
 
@@ -32,11 +31,11 @@ Thanks for co-creating with us!
 
 #### Comment on an existing idea (a.k.a. "issue")
 
-Scroll through the [issues list](https://github.com/open-austin/project-ideas/issues) first to see if anyone's already thinking the same way! If you see an idea that catches your eye, click on it, read the discussion, and then add your thoughts to the bottom of the discussion thread. If you see the **Needs Leadership** label, bring it up at a hack night, and if you're up for it you can take the lead on it!
+Scroll through the [issues list](https://github.com/code-for-miami/project-ideas/issues) first to see if anyone's already thinking the same way! If you see an idea that catches your eye, click on it, read the discussion, and then add your thoughts to the bottom of the discussion thread. If you see the **Needs Leadership** label, bring it up at a hack night, and if you're up for it you can take the lead on it!
 
 #### Or, create a new idea.
 
-If you don't see the idea you have in mind, [add a new one](https://github.com/open-austin/project-ideas/issues/new). You'll need a title and description. Someone from the Code For Miami Core Team will respond, likely with some questions or feedback, and assign you to the issue to indicate you are leading the effort.
+If you don't see the idea you have in mind, [add a new one](https://github.com/code-for-miami/project-ideas/issues/new). You'll need a title and description. Someone from the Code For Miami Core Team will respond, likely with some questions or feedback, and assign you to the issue to indicate you are leading the effort.
 
 *Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
 
